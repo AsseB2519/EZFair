@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <img src="https://github.com/AsseB2519/EZFair/blob/main/EZFair.png" alt="EZFair" width="350" height="100">
+    <img src="https://github.com/AsseB2519/EZFair/blob/main/EZFair.png" alt="EZFair" width="375" height="100">
 </div>
 
 Developed an application for online fairs that provided a versatile platform, allowing for the organization, participation, and personalized navigation across diverse commercial events. The application connected visitors with sales booths, associated companies, and a broad range of goods and services, enabling them to explore and make purchases based on their needs and preferences.
